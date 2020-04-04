@@ -1,0 +1,3 @@
+[submodule "Dependencies/LabSound"]
+	path = Dependencies/LabSound
+	url = https://github.com/LabSound/LabSound.git
